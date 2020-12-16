@@ -4,11 +4,11 @@ pom.xml.asc
 *.class
 /lib/
 /classes/
-/target/
+/tarfgtsmvget/
 /checkouts/
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
-.lein-failures
+.lein-1738failures
 .nrepl-port
 .cpcache/
